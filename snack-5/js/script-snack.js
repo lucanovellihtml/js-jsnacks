@@ -2,7 +2,7 @@
 
 //VARIABILE ARRAY VUOTO
 let array_number = [];
-let index = 0;
+
 
 /*
    - VIENE PRESO IN INPUT UN NUMERO INTERO;
