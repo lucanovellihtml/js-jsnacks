@@ -1,3 +1,5 @@
+"use strict";
+
 //VARIABILE INPUT
 const input = prompt("Inserisci un numero tra 0 o 1");
 
