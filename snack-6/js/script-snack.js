@@ -1,5 +1,5 @@
 //VARIABILE INPUT
-const input = prompt("Inserisci il numero");
+const input = prompt("Inserisci un numero tra 0 o 1");
 
 //GENERA VALORE TRA 0 E 3
 const number = Math.floor(Math.random() * 4);
